@@ -6,6 +6,9 @@ Users mint a Toodle Loot Bag to theme software projects using Cryptoodle's build
 ## Building Blocks
 1. Each Toodle Loot Bag NFT is mapped to 1 Genesis Toodle. Its official contract address is: [0x2A16107Ea0D28aE822168C8bB3eF5460b1924A78](https://etherscan.io/token/0x2A16107Ea0D28aE822168C8bB3eF5460b1924A78)
 2. Only 15,000,000 TODL tokens can be redeemed for each Toodle Loot Bag NFT. Its official contract address is: [0x98933f2396DBaABf812b6E6d27dA4DF109C4c55F](https://etherscan.io/token/0x98933f2396DBaABf812b6E6d27dA4DF109C4c55F)
+3. There are an infinite number of "Toodles" but only a maximum of 10,000 "Genesis Toodles".
+4. At the time of mint, the Toodle Loot Bag's Genesis Toodle spawns. One "Toodle" spawns every 24 hours from each Toodle Loot Bag after.
+5. A Genesis Toodle/Toodle interacts with Toodle Loot Bags and TODL coins.
 
 ## Links
 https://cryptoodles.com
