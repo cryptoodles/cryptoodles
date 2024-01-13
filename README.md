@@ -10,6 +10,9 @@ Users mint a Toodle Loot Bag to theme software projects using Cryptoodle's build
 4. At the time of mint, the Toodle Loot Bag's Genesis Toodle spawns. One "Toodle" spawns every 24 hours from each Toodle Loot Bag after.
 5. A Genesis Toodle/Toodle interacts with Toodle Loot Bags and TODL coins.
 
+## What's Next
+Developers can interact with these smart contracts to build applications on top of the Cryptoodles project.
+
 ## Links
 https://cryptoodles.com
 
