@@ -8,14 +8,18 @@ Users mint a Toodle Loot Bag to theme software projects using Cryptoodle's build
 2. Only 15,000,000 TODL tokens can be redeemed for each Toodle Loot Bag NFT. Its official contract address is: [0x98933f2396DBaABf812b6E6d27dA4DF109C4c55F](https://etherscan.io/token/0x98933f2396DBaABf812b6E6d27dA4DF109C4c55F)
 3. There are an infinite number of "Toodles" but only a maximum of 10,000 "Genesis Toodles".
 4. At the time of mint, the Toodle Loot Bag's Genesis Toodle spawns. One "Toodle" spawns every 24 hours from each Toodle Loot Bag after.
-5. A Genesis Toodle/Toodle interacts with Toodle Loot Bags and TODL coins.
+5. A Genesis Toodle/Toodle interacts with Toodle Loot Bags and TODL coins within the ToodleVM, an L2 zkEVM Rollup, the official home of Toodles.
 
 ## What's Next
-Developers can interact with these smart contracts to build applications on top of the Cryptoodles project.
+- Developers can interact with these smart contracts to claim Toodle Loot Bags and TODL coins to build applications for Toodles.
+- We are launching the ToodleVM, an L2 zkEVM Rollup, to bridge into. Early testers will be eligible to claim an airdrop as a reward for testing. More information coming soon!
 
-## Links
-https://cryptoodles.com
-
+## Official Links
+| Link  | Description |
+| ------------- | ------------- |
+| [Home Site](https://cryptoodles.com)  | Website  |
+| [Docs](https://docs.cryptoodles.com)  | View official documentation for Cryptoodles |
+| ToodleVM Testnet | Launching Soon! |
 <!--
 **cryptoodles/cryptoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
