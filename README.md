@@ -12,7 +12,6 @@ Users mint a Toodle Loot Bag to theme software projects using Cryptoodle's build
 
 ## What's Next
 - Developers can interact with these smart contracts to claim Toodle Loot Bags and TODL coins to build applications for Toodles.
-- We are launching the ToodleVM, an L2 zkEVM Rollup, to bridge into. Early testers will be eligible to claim an airdrop as a reward for testing. More information coming soon!
 
 ## Official Links
 | Link  | Description |
