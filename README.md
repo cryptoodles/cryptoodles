@@ -12,13 +12,14 @@ Users mint a Toodle Loot Bag to theme software projects using Cryptoodle's build
 
 ## What's Next
 - Developers can interact with these smart contracts to claim Toodle Loot Bags and TODL coins to build applications for Toodles.
+- Build apps that use the Toodle Loot Bag NFT and TODL coins on L1 (Ethereum Mainnet) or L2 (Base)
 
 ## Official Links
 | Link  | Description |
 | ------------- | ------------- |
 | [Home Site](https://cryptoodles.com)  | Website  |
 | [Docs](https://docs.cryptoodles.com)  | View official documentation for Cryptoodles |
-| ToodleVM Testnet | Launching Soon! |
+| L2 Base Migration | In Progress |
 <!--
 **cryptoodles/cryptoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
