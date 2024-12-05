@@ -19,7 +19,7 @@ Users mint a Toodle Loot Bag to create software projects using Cryptoodle's buil
 | ------------- | ------------- |
 | [Home Site](https://cryptoodles.com)  | Website  |
 | [Docs](https://docs.cryptoodles.com)  | Documentation |
-| [Medium] | Project Blog |
+| [Medium](https://cryptoodles.medium.com) | Project Blog |
 <!--
 **cryptoodles/cryptoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
