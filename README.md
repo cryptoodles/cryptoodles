@@ -1,7 +1,7 @@
 ## Welcome, Toodle 🐶🤖
 10,000 Genesis Toodles spawned within the Ethereum blockchain in 2021, each equipped with a [Toodle Loot Bag NFT](https://etherscan.io/token/0x2A16107Ea0D28aE822168C8bB3eF5460b1924A78) and 15,000,000 [TODL](https://etherscan.io/token/0x98933f2396DBaABf812b6E6d27dA4DF109C4c55F) coins.
 
-Users mint a Toodle Loot Bag to theme software projects using Cryptoodle's building blocks.
+Users mint a Toodle Loot Bag to create software projects using Cryptoodle's building blocks.
 
 ## Building Blocks
 1. Each Toodle Loot Bag NFT is mapped to 1 Genesis Toodle. Its official contract address is: [0x2A16107Ea0D28aE822168C8bB3eF5460b1924A78](https://etherscan.io/token/0x2A16107Ea0D28aE822168C8bB3eF5460b1924A78)
@@ -12,14 +12,14 @@ Users mint a Toodle Loot Bag to theme software projects using Cryptoodle's build
 
 ## What's Next
 - Developers can interact with these smart contracts to claim Toodle Loot Bags and TODL coins to build applications for Toodles.
-- Build apps that use the Toodle Loot Bag NFT and TODL coins on L1 (Ethereum Mainnet) or L2 (Base)
+- Build apps that use the Toodle Loot Bag NFT and TODL coins on Base (L2).
 
 ## Official Links
 | Link  | Description |
 | ------------- | ------------- |
 | [Home Site](https://cryptoodles.com)  | Website  |
-| [Docs](https://docs.cryptoodles.com)  | View official documentation for Cryptoodles |
-| L2 Base Migration | In Progress |
+| [Docs](https://docs.cryptoodles.com)  | Documentation |
+| [Medium] | Project Blog |
 <!--
 **cryptoodles/cryptoodles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
